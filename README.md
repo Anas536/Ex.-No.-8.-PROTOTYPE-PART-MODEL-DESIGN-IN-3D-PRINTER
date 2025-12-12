@@ -47,8 +47,8 @@
 
 ## Output:
 
-### NAME : **KABELAN G K**
-### REG NO : **212224110027**
+### NAME : **Mohamed Anas O.I**
+### REG NO : **212223110028**
 ## Rendered Output
 ![alt text](<DUSTER v2.png>)
 ## Fusion 360 
